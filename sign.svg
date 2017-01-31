@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,7 +80,7 @@
            x="187.17191"
            y="554.94708"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'" /></flowRegion><flowPara
-         id="flowPara3375">abercompsoc</flowPara></flowRoot>    <flowRoot
+         id="flowPara3375">AberCompSoc</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3377"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -90,7 +90,7 @@
            height="88.893425"
            x="139.40105"
            y="626.91681" /></flowRegion><flowPara
-         id="flowPara3383"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3383" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3369-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.50869751px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -102,5 +102,17 @@
            x="187.17191"
            y="554.94708"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'" /></flowRegion><flowPara
-         id="flowPara3375-0">abercompsoc.github.io</flowPara></flowRoot>  </g>
+         id="flowPara3375-0">abercompsoc.github.io</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3347"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(193.31026,112.57424)"><flowRegion
+         id="flowRegion3349"><rect
+           id="rect3351"
+           width="798.02051"
+           height="60.609131"
+           x="179.80714"
+           y="643.07922" /></flowRegion><flowPara
+         id="flowPara3353"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'">facebook.com/groups/AberCompSoc</flowPara></flowRoot>  </g>
 </svg>
